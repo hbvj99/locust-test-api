@@ -1,5 +1,5 @@
 # locust-test-api
-APIs analysis with Locust. This repository is a test scripts created for the blog [post](https://vijaypathak.com.np/2021/04/load-testing-and-balacing-APIs-with-locust-and-nginx.html).
+APIs analysis with Locust. This repository is a test scripts created for the blog [post](https://vijaypathak.com.np/2021/04/load-testing-and-balancing-APIs-with-locust-and-nginx.html).
 
 # Install
 - Clone this repository
